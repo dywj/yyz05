@@ -23,14 +23,14 @@ layers:
   - KP 6
   - KP PLUS
   - RGB EFF
-  - RGB EFR
-  - U
+  - $$mdi:apple-keyboard-caps$$
+  - $$mdi:apple-keyboard-shift$$
   - KP 1
   - KP 2
   - KP 3
   - RGB TOG
-  - RGB BRD
-  - RGB BRI
+  - APP
+  - LEFT CONTROLI
   - KP 0
   - KP DOT
   - {t: '$$mdi:keyboard-return$$', type: enter}
