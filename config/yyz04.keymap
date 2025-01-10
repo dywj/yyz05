@@ -27,7 +27,7 @@
 &kp A             &kp S             &kp D                                &kp KP_N7   &kp KP_N8      &kp KP_N9
 &kp Z             &kp X             &kp C            &kp V               &kp KP_N4   &kp KP_N5      &kp KP_N6        &kp KP_PLUS  
 &rgb_ug RGB_EFF   &kp CAPSLOCK      &kp LSHIFT                           &kp KP_N1   &kp KP_N2      &kp KP_N3 
-                  &rgb_ug RGB_TOG   &kp K_APP     &kp LEFT_CONTROLI                     &kp KP_N0      &kp KP_DOT       &kp ENTER 
+                  &rgb_ug RGB_TOG   &kp z     &kp LEFT_CONTROLI                     &kp KP_N0      &kp KP_DOT       &kp ENTER 
             >;
 
             display-name = "QWERT";
