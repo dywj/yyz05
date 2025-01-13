@@ -28,6 +28,7 @@
 &rgb_ug RGB_BRD   &kp X             &kp C            &kp V               &kp KP_N4   &kp KP_N5      &kp KP_N6        &kp KP_PLUS  
 &rgb_ug RGB_EFF   &rgb_ug RGB_EFR   &kp U            &kp M               &kp KP_N1   &kp KP_N2      &kp KP_N3 
 &kp B             &kp A             &kp Z            &rgb_ug RGB_BRI                 &kp KP_N0      &kp KP_DOT       &kp ENTER 
+&none             &kp LCTRL         &kp LWIN         &kp SPACE           &kp SPACE                                   &kp RALT 
             >;
 
             display-name = "QWERT";
