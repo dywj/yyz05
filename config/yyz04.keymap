@@ -24,10 +24,10 @@
         LAYER0 {
             bindings = <
 &bt BT_CLR_ALL    &kp W             &kp E            &kp R               &mo 1       &kp KP_SLASH   &kp KP_DIVIDE    &kp KP_MINUS 
-&rgb_ug RGB_TOG   &kp S             &kp D                                &kp KP_N7   &kp KP_N8      &kp KP_N9
+&rgb_ug RGB_TOG   &kp S             &kp D            &kp K               &kp KP_N7   &kp KP_N8      &kp KP_N9
 &rgb_ug RGB_BRD   &kp X             &kp C            &kp V               &kp KP_N4   &kp KP_N5      &kp KP_N6        &kp KP_PLUS  
-&rgb_ug RGB_EFF   &rgb_ug RGB_EFR   &kp U                                &kp KP_N1   &kp KP_N2      &kp KP_N3 
-                  &kp A             &kp Z            &rgb_ug RGB_BRI                 &kp KP_N0      &kp KP_DOT       &kp ENTER 
+&rgb_ug RGB_EFF   &rgb_ug RGB_EFR   &kp U            &kp M               &kp KP_N1   &kp KP_N2      &kp KP_N3 
+&kp B             &kp A             &kp Z            &rgb_ug RGB_BRI                 &kp KP_N0      &kp KP_DOT       &kp ENTER 
             >;
 
             display-name = "QWERT";
